@@ -1,8 +1,14 @@
-package main
 
-import "fmt";
+// main function
+//package main
 
-func main() {
+//import "fmt";
 
-	fmt.Println("hello world")
-}
+
+//main function start
+//func main() {
+
+	//fmt.Println("hello world")
+
+	
+//}
