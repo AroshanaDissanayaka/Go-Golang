@@ -56,4 +56,27 @@ fmt.Printf("Type:%T", userBalance);
 
 fmt.Println(isUserFound);
 
+//Constants
+
+var userAge int =24;
+
+fmt.Println(userAge);
+
+
+//Calculate the area of a given circle of Radius
+
+
+    var radius float32 = 5.0;
+
+    const pi float32 = 3.14;
+
+//equation 
+
+var area float32 = 0.0;
+
+area = pi * radius * radius
+
+fmt.Println(area);
+
+
 }
